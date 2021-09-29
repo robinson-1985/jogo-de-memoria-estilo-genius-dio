@@ -1,4 +1,4 @@
-:spiral_calendar: Atualizado em 23 de setembro de 2021 :heart:
+:spiral_calendar: Atualizado em 4 de abril de 2021 :heart:
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Digital%20Innovation%20One%20-%20Logotipo.png" />
 
@@ -17,6 +17,13 @@ Nesse projeto, o desafio será criar um jogo Genius utilizando apenas HTML, CSS 
 # Regra do jogo
 
 Tem como base o Jogo Genius muito popular na década de 1980. O brinquedo buscava estimular a memorização de cores e sons. Com um formato semelhante a um OVNI, possuía botões coloridos que emitiam sons harmônicos e se iluminavam em seqüência. Cabia aos jogadores repetir o processo sem errar.
+
+# Melhorias implementadas
+
+- Documentei a lógica no javascript
+- Coloquei som quando o usuário perde
+- Mudei o background
+- Coloquei título
 
 # Como jogar
 
