@@ -1,4 +1,6 @@
-:spiral_calendar: Atualizado em 4 de abril de 2021 :heart:
+Author:[Robinson Dias](https://github.com/robinson-1985)
+
+:spiral_calendar: Atualizado em 29 de setembro de 2021 :heart:
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Digital%20Innovation%20One%20-%20Logotipo.png" />
 
